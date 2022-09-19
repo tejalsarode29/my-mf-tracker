@@ -62,7 +62,7 @@ def applyColorToDf(column_name, df):
     return coloured_df
 
 def color(column_name):
-    return f"background-color:" + (" #aceeca;" if column_name < 0 else "#FBC3C4") 
+    return f"background-color:" + ("#aceeca;" if column_name > 0 else "#FBC3C4") 
 
 
 def printSection(h3, df):
