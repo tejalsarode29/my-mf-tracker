@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "annular-will-363004",
+  "private_key_id": "2a90fbc72960f163e7989aa2254780e34816e802",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK/7AW98iZw3Bs\nove12dejMfkWquosxq2vugJ+SsMZwPbY/2T42HWLLOIE0qVAGaEFTpvSV9spmvJt\n0ZW++aXqm8xiGQku4J/hZqcBmoxjHl9Yca279+kO4KW2X6/RUsdxvxw+whPJ5ijq\n/CiUgnJHkAzCqEdyPefu46AUwf78v9gJGTD/6InwTwiPNCAiH0/A1RfeEjIgmsNL\nsT29moOqsaYe2ZLPKrsbtXjdRq31jKZkiBy+4ouaCYFUyOZ/FZ/PDvaOEmLrGuJY\n/7Ype3A2enBbD8r5wILVGRM1K2XN4KP4RYUIbBZ5aZcar5y5tNZp6gHJXpV7U1Br\na/K+cLnZAgMBAAECggEAHw29OM4/7DHHHX9SqImCIM9wvOR5fU8JW+P3JK24KdTo\njiqHnj+yv48mpjk5GVSyWrb7RFK3TqaK5nzUzQmwtXKO8gTFcFvhaWBENQ0Y48LO\nMB/3xVT33JRGFV+O7FUe+IoVPo5+63hfkw7vAETySXtCUHbgsxvAQr2ki/hfUveZ\n/r1NPBVCY4py7fse2q/CUMWdPlHEgc01RjzcWOWehPTgUG9eo29RT+G4hDeqjxzF\njAuUPMu2kqNx+zohtthQL5pd0HOOioDQnga1LGBdHRpGXv1xrxlwr/vOZz7jpnlO\n/MC7vuwUOd9vgCiwjMQRsX/ugKIdSgl0e7tM89Y7dwKBgQD6NWPuM4kEt67Lfpn6\nWGGZsHw3yVBcSSYK0CKREKp8Sk3Gsl0lWiZNp4FahvXOO09kQ5gDfWJYypCFmo9M\nXRcaUO0AFyg+3FpkL606Q7AsYvipL/b/ReRotIFAFbEy0aO9LQ8h4ztlNurM//H5\nzrCfq+Z46j0CjSBL2WGXXpFFwwKBgQDPso5ifXUsuO4boPMW/tnJZ96qOs3KQoFl\nkn85Rtzd9P45Zph2hufVvv6TDwfWTEpXQ3Hvs3bX4m6JVuq9NJ8IcA/FcTK2EIfA\nUEe3RuBvAa1HAIJnT6HWPqkaGImCjjWJJJ4CBPT2aNGqinoAfePct503YBeUOpfr\nHsTLkj+cMwKBgQDRi4FDbrmjz8l992sxNG+Y7Ss69Uht4X0QtTsdzp1ZNklozNwh\nehx2EIDOthSKQTW+PLXExm9k+VCL8+NrCtNcYMX7u2kjLBwvp5YmI6YZplGmL9tl\n8rzVy8YrS395lgTRXDk+IjYOEC4YvYmDssxNDQQZ4+JwjoyruUR4JuT3TQKBgG+w\n2sb2JowNSuaKsA7+r8mSVPiANOh+yS0BEe+QPvgRZqEhnf2nYIbedfJJU/KXBidV\nOrEndlJ0DvNGTWfAI4GbGbAYxqeHzijKQza5I7ouUatsB7Rc62/WNIO3DEOsC/gb\nO+lkFwNnrNCkNSWMjXvFNgNwZl2tAMNMwZGjrRdnAoGAFdmd1BXSmE098/Xj88GJ\nsuVWksaKKwe6fN2PeOw31R48aKRpUjPWjfr18+C1okjNZ7/YcRXxTm//w0G2zx2n\nCqbx/Ezs46NcdCWTAaVpg4/dMflLpMTDIwtSYiTpo979FVqSuIptp+Mt4jtL/KG4\npxyPYqX0ZRIr5wiL7gfJV1w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-mf-stock-tracker-sa@annular-will-363004.iam.gserviceaccount.com",
+  "client_id": "100063863193524514802",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-mf-stock-tracker-sa%40annular-will-363004.iam.gserviceaccount.com"
+}
